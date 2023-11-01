@@ -70,7 +70,7 @@ header > p {
     font-size: 1, 2em;
     font-family: var(--font-padrao);
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     max-width: 500px;
     padding-left: 10px;
     padding-right: 10px;
