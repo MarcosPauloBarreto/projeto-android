@@ -5,7 +5,12 @@
 @font-face {
     font-family: 'android';
     src: url(/fontes/idroid.otf) format('opentype');
-    font-weight: normal;
+    font-weight: bolder;
+}
+@font-face {
+    font-family: 'Android';
+    src: url(/fontes/android_7.ttf) format('truetype');
+    font-weight: bold;
 }
 
 * {
@@ -23,7 +28,7 @@
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', cursive;
-    --font-android: 'android', cursive;
+    --font-android: 'android', 'Android', cursive;
 }
 
 /* 
